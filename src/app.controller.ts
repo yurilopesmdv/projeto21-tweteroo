@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
@@ -14,7 +14,10 @@ export class AppController {
 @Controller('tweets')
 export class TweetsController {
   @Get()
-  findAll(): string {
+  findAll(@Param() params: any): string {
+    if (params.username) {
+      return 'This action returns all tweets of this user';
+    }
     return 'This action returns all tweets';
   }
 }
