@@ -43,7 +43,7 @@ O Tweteroo é uma plataforma de rede social que permite aos usuários criar cont
 npm i
 ```
 
-3. Rode o projeto para disponibilizar a API para em modo de desenvolvimento:
+3. Rode o projeto para disponibilizar a API em modo de desenvolvimento:
 
 ```bash
 npm run start
