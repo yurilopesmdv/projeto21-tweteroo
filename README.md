@@ -1,73 +1,51 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# Projeto21 Tweteroo
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Bem-vindo ao Projeto21 Tweteroo! Este é um projeto incrível que permite [descreva aqui brevemente o objetivo ou a função principal do seu projeto].
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+![Imagem de exemplo ou logotipo do projeto]
 
-## Description
+## Tabela de Conteúdos
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Visão Geral](#visão-geral)
+- [Recursos](#recursos)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+- [Contato](#contato)
 
-## Installation
+## Visão Geral
 
-```bash
-$ npm install
-```
+[Descreva o seu projeto de forma mais detalhada. Explique sua motivação, objetivos e como ele funciona. Use esta seção para dar aos usuários uma compreensão clara do que seu projeto faz.]
 
-## Running the app
+## Recursos
 
-```bash
-# development
-$ npm run start
+- [Recurso 1]: Descreva o primeiro recurso ou funcionalidade principal do seu projeto.
+- [Recurso 2]: Descreva o segundo recurso ou funcionalidade importante.
+- [Recurso 3]: Continue listando os recursos e funcionalidades do seu projeto, conforme necessário.
 
-# watch mode
-$ npm run start:dev
+## Pré-requisitos
 
-# production mode
-$ npm run start:prod
-```
+[Forneça informações sobre quaisquer pré-requisitos que os usuários precisam atender antes de começar a usar seu projeto.]
 
-## Test
+## Instalação
 
-```bash
-# unit tests
-$ npm run test
+[Forneça instruções passo a passo sobre como instalar seu projeto. Isso pode incluir a instalação de dependências, configuração do ambiente ou qualquer outra etapa necessária.]
 
-# e2e tests
-$ npm run test:e2e
+## Uso
 
-# test coverage
-$ npm run test:cov
-```
+[Explique como os usuários podem usar seu projeto. Forneça exemplos de código, capturas de tela ou instruções detalhadas para ajudar os usuários a começarem rapidamente.]
 
-## Support
+## Contribuição
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+[Explique como outros desenvolvedores podem contribuir para o seu projeto. Isso pode incluir informações sobre como reportar problemas, criar solicitações de pull e diretrizes de estilo de código.]
 
-## Stay in touch
+## Licença
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+Este projeto é licenciado sob a [Nome da Licença]. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-## License
+## Contato
 
-Nest is [MIT licensed](LICENSE).
+[Forneça informações de contato, como seu endereço de e-mail ou links para as redes sociais, para que os usuários possam entrar em contato com você caso tenham dúvidas ou sugestões.]
+
