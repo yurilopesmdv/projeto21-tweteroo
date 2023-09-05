@@ -26,6 +26,7 @@ O Tweteroo é uma plataforma de rede social que permite aos usuários criar cont
 - **Feed de Tweets**: Os usuários têm um feed de tweets com as últimas publicações feitas por outros usuários.
 <p align="center">
   <img src="https://github.com/yurilopesmdv/projeto21-tweteroo/blob/main/src/static/criar-conta-tw.png" alt="Exemplo da criação da conta" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/yurilopesmdv/projeto21-tweteroo/blob/main/src/static/feed-tw.png" alt="Exemplo do feed" width="300"/>
 </p>
 
