@@ -1,6 +1,6 @@
-# Projeto21 Tweteroo
+# Tweteroo
 
-Bem-vindo ao Projeto21 Tweteroo! Este é um projeto incrível que permite [descreva aqui brevemente o objetivo ou a função principal do seu projeto].
+Bem-vindo ao Tweteroo! Este é um projeto de rede social que permite aos usuários criar contas e compartilhar seus pensamentos e opiniões em forma de tweets.
 
 ![Imagem de exemplo ou logotipo do projeto]
 
