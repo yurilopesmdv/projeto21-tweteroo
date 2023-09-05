@@ -1,73 +1,50 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# Tweteroo
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Bem-vindo ao Tweteroo! Este é um projeto de rede social que permite aos usuários criar contas e compartilhar seus pensamentos e opiniões em forma de tweets.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+![Imagem de exemplo ou logotipo do projeto]
 
-## Description
+## Tabela de Conteúdos
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Visão Geral](#visão-geral)
+- [Recursos](#recursos)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Contato](#contato)
 
-## Installation
+## Visão Geral
 
-```bash
-$ npm install
-```
+O Tweteroo é uma plataforma de rede social que permite aos usuários criar contas, compartilhar seus pensamentos em tweets curtos e interagir com outros usuários. Ele foi desenvolvido com o objetivo de proporcionar uma experiência de compartilhamento de informações e interação social simples e eficaz.
 
-## Running the app
+
+## Recursos
+
+- **Criação de Conta**: Os usuários podem criar contas pessoais para começar a usar a plataforma.
+- **Compartilhamento de Tweets**: Os usuários podem escrever e compartilhar tweets curtos para expressar seus pensamentos.
+- **Feed de Tweets**: Os usuários têm um feed de tweets com as últimas publicações feitas por outros usuários.
+
+## Pré-requisitos
+
+- Você vai precisar ter o **Node** instalado em sua máquina.
+
+## Instalação
+
+1. Clone esse repositório.
+2. Instale todas as dependências.
 
 ```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+npm i
 ```
 
-## Test
+3. Rode o projeto para disponibilizar a API para em modo de desenvolvimento:
 
 ```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+npm run start
 ```
 
-## Support
+## Contato
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Se você tiver alguma dúvida, sugestão ou precisar de assistência, sinta-se à vontade para entrar em contato conosco:
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+- LinkedIn: [Yuri Lopes]([URL do seu perfil no LinkedIn](https://www.linkedin.com/in/yurilopesm/))
+- E-mail: yurilopesm@hotmail.com
