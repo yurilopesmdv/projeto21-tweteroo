@@ -53,5 +53,5 @@ npm run start
 
 Se você tiver alguma dúvida, sugestão ou precisar de assistência, sinta-se à vontade para entrar em contato conosco:
 
-- LinkedIn: [Yuri Lopes]([URL do seu perfil no LinkedIn](https://www.linkedin.com/in/yurilopesm/))
+- LinkedIn: [Yuri Lopes](https://www.linkedin.com/in/yurilopesm/)
 - E-mail: yurilopesm@hotmail.com
