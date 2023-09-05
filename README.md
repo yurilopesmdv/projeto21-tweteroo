@@ -2,7 +2,7 @@
 
 Bem-vindo ao Tweteroo! Este é um projeto de rede social que permite aos usuários criar contas e compartilhar seus pensamentos e opiniões em forma de tweets.
 
-!(https://github.com/yurilopesmdv/projeto21-tweteroo/blob/main/src/static/logo-tw.png)
+![Logotipo do Projeto](https://github.com/yurilopesmdv/projeto21-tweteroo/blob/main/src/static/logo-tw.png)
 
 ## Tabela de Conteúdos
 
