@@ -49,6 +49,9 @@ npm i
 npm run start
 ```
 
+## Ferramentas utilizadas
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)  ![Prisma](https://img.shields.io/badge/-Prisma-lightgrey?style=for-the-badge&logo=prisma)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs)
+
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou precisar de assistência, sinta-se à vontade para entrar em contato conosco:
